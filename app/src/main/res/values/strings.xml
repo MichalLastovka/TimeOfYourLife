@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgeInMinutes</string>
+    <string name="your_life_in_minutes">Your life in minutes</string>
+    <string name="enter_your_dob">Enter your DoB</string>
+    <string name="selected_date">Selected date:</string>
+    <string name="no_date_selected_yet">No date selected yet</string>
+</resources>

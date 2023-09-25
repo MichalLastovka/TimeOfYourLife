@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AgeInMinutes</string>
+    <string name="your_life_in_minutes">Kolik uplynulo minut od vašeho narození</string>
+    <string name="enter_your_dob">Vybrat datum narození</string>
+    <string name="selected_date">Vybrané datum:</string>
+    <string name="no_date_selected_yet">Nebylo vybráno žádné datum</string>
+</resources>
